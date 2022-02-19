@@ -37,5 +37,5 @@ https://share.streamlit.io/bhaswatiroy/complete-text-analysis-streamlit-web-app/
 
 ## Glance At The Hosted Application- 
 
-###Home Page
+### Home Page
 ![image](https://user-images.githubusercontent.com/78029145/154792997-c60376bb-411a-4624-aeeb-f552416a8cfb.png)
