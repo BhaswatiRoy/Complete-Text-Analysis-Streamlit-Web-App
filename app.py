@@ -15,6 +15,7 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 
+nltk.download('punkt')
 nltk.download('stopwords')
 sw=nltk.corpus.stopwords.words("english")
 
