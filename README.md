@@ -41,6 +41,7 @@ The analysis sections include ->
 | Sentiment Analysis Page | Text |
 | Stress Detection Page | Text |
 | Hate & Offensive Content Page | Text |
+| Sarcasm Detection | Text |
 
 ## Deployment Of The Project
 
