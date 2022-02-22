@@ -27,6 +27,12 @@ The analysis sections include ->
 
 ## Structure Of The Project
 
+- Each prediction page is conneceted with a Machine Learning Model which uses either of Logistic Regression, Decision Tree, Random Forest Algorithms to predict the results.
+- Also we have 5 different datasets being used for each prediction.
+- We can land into each prediction site of the web app from the options in the Navigation Menu.
+- We have only 1 relevant feature taken into consideration which is the text and then the text is preprocessed and vectoized with help of TF-IDF Vectorizer to fit into the model and tain it.
+- So the user gets a broad overview of the text after the analysis
+
 ## Deployment Of The Project
 
 After the modeling part the model is deployed using Streamlit library on Streamlit Share so that the app is available for usage for everyone.
