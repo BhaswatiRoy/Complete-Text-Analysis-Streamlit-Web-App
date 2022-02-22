@@ -33,6 +33,16 @@ The analysis sections include ->
 - We have only 1 relevant feature taken into consideration which is the text and then the text is preprocessed and vectoized with help of TF-IDF Vectorizer to fit into the model and tain it.
 - So the user gets a broad overview of the text after the analysis
 
+## The feature taken into consideration
+
+| Text Analysis Type | Feature |
+| - | - |
+| Spam or Ham Detection Page | Text |
+| Sentiment Analysis Page | Text |
+| Stress Detection Page | Text |
+| Hate & Offensive Content Page | Text |
+| - | - |
+
 ## Deployment Of The Project
 
 After the modeling part the model is deployed using Streamlit library on Streamlit Share so that the app is available for usage for everyone.
