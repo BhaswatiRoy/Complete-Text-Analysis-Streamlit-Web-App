@@ -43,6 +43,8 @@ The analysis sections include ->
 | Hate & Offensive Content Page | Text |
 | Sarcasm Detection | Text |
 
+The text is preprocessed then fed to the model.
+
 ## Deployment Of The Project
 
 After the modeling part the model is deployed using Streamlit library on Streamlit Share so that the app is available for usage for everyone.
